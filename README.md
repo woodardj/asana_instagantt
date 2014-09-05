@@ -1,0 +1,1 @@
+I really like Asana for project management (for things that don't belong in Pivotal Tracker, obviously), and the integration with Instagantt is pretty rad. But I'm really lazy and there was no easy way to pop over to Instagantt when I have Asana open, so this Chrome plugin adds a link.
