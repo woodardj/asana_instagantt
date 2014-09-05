@@ -9,7 +9,6 @@ var observer = new WebKitMutationObserver(function(mutations) {
     for (var i = 0; i < mutation.addedNodes.length; i++){
       //console.log(mutation.addedNodes[i].id);
       if (mutation.addedNodes[i].id == "tab-ring-dispatcher"){
-        console.log('added dispatcher');
         update_needed = true;
       }
     }
